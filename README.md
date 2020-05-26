@@ -14,4 +14,4 @@ Upon reflecting on the finished framework, it was clear that the efforts to upho
 ## Overview
 TaskGen is a tool created to aid users through the conceived resource recovery framework. When using the tool many of the aforementioned framework steps can be completed rapidly with use of the tool, thus drastically decreasing complexity and increasing ease of application. TaskGen facilitates swift generation of feasible flowsheets, thus allowing users to assess possibilities that may not have been previously considered, and eliminate unsuitable candidates early the evaluation process. A demonstration of how framework implementation is assisted with the use of TaskGen can be seen as follows;
 
-![](Ethanol.gif)
+![](img/Ethanol.gif)
