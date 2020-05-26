@@ -2,6 +2,10 @@
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production and can't be found here; [Paper](https://www.sciencedirect.com/science/article/pii/S0959652620319016)  
 
+<p align="center">
+  <img src="https://github.com/silkdom/Thesis-Publication/blob/master/img/JCLP.png?raw=true" alt="JCLP"/>
+</p>
+
 This repo regards the software implementation of the framework.
 
 ## Motivation
