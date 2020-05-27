@@ -6,7 +6,7 @@ My thesis "A decision-support framework for techno-economic-sustainability asses
   <img src="https://github.com/silkdom/Thesis-Publication/blob/master/img/JCLP.png?raw=true" alt="JCLP"/>
 </p>
 
-This repo regards the software implementation of the framework.
+This repo regards the software implementation of the framework (TaskGen).
 
 ## Motivation
 Upon reflecting on the finished framework, it was clear that the efforts to uphold comprehensiveness could potential be perceived as a downfall, in respect to the number of challenges that arise when attempting to apply manually, namely the complexity and time it takes to apply. This is an unintended consequence, as the framework was envisioned to aid users quickly through the resource recovery potential identification process. Consequently, computer aided functionalities were deemed as a necessary addition to streamline the process, thus TaskGen was conceived.
